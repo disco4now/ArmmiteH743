@@ -64,20 +64,16 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 *******************************************************************************  
-
  In addition the software components from STMicroelectronics are provided   
  subject to the license as detailed below:   
-   
-  ******************************************************************************   
-  * @attention   
-  *
-  * <center>&copy; Copyright (c) 2019 STMicroelectronics.   
-  * All rights reserved.</center></h2>
-  *
-  * This software component is licensed by ST under Ultimate Liberty license   
-  * SLA0044, the "License"; You may not use this file except in compliance with   
-  * the License. You may obtain a copy of the License at:  
-  *                             www.st.com/SLA0044  
-  *
-  ******************************************************************************  
+ 
+   <center>&copy; Copyright (c) 2019 STMicroelectronics.     
+   All rights reserved.</center></h2>  
+ 
+   This software component is licensed by ST under Ultimate Liberty license     
+   SLA0044, the "License"; You may not use this file except in compliance with     
+   the License. You may obtain a copy of the License at:    
+                             www.st.com/SLA0044    
+  
+********************************************************************************  
  
