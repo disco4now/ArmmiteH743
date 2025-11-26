@@ -27,7 +27,7 @@ Initial release of V5.07.02
 Armmite H7 MMBasic   
 MMBasic for STM32H743 100 and 144 pin chips (Armmite H7)
 
-Copyright 2011-2023 Geoff Graham and  Peter Mather.
+Copyright 2011-2025 Geoff Graham, Peter Mather and Gerry Allardice.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
